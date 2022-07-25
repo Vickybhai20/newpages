@@ -1,0 +1,66 @@
+h1, h3, h4, h5, h6{
+    color: white;
+    text-align:center;
+    background-color: brown;
+    outline:rgb(140, 2, 2);
+}
+a.hover{
+    margin: 0;
+    text-emphasis-color: blue;
+    outline-color: chartreuse;
+    text-decoration: overline;
+}
+a{
+    color:red;
+    transition: 0.5s;
+    box-shadow: 0 0 35px var(--clr);
+}
+
+textarea{
+    color: rgb(7, 7, 36);
+    background-color: antiquewhite;
+    width: 500px;
+    height: 100px;
+    text-align:center;
+}
+marquee{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+embed{
+    background-color: black;
+    width: 180px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+aside{
+    background-color: black;
+    color:white;
+}
+body{
+    font-size: 20px;
+    font-style: normal;
+    background-color: white;
+}
+table{
+    background-color: pink;
+    color:black;
+    font-size: 20px;
+    border:10ch;
+    width: 1300px;
+    height: 200px;
+    border-color: black;
+    border-style: hidden;
+}
+a.active{
+    background-color: goldenrod;
+    color:black
+}
+footer{
+    color:black;
+    text-align: center;
+    background-color:yellowgreen;
+}
