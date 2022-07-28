@@ -49,8 +49,6 @@ table{
     width: 1300px;
     height: 200px;
     border-color: black;
-    border-style: hidden;
-    align-items: center;
 }
 a.active{
     background-color: goldenrod;
