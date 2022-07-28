@@ -1,7 +1,7 @@
-h1, h3, h4, h5, h6{
-    color: white;
+h1, h2, h3, h4, h5, h6{
+    color: black;
     text-align:center;
-    background-color: brown;
+    background-color: gray;
     outline:rgb(140, 2, 2);
 }
 a.hover{
@@ -18,12 +18,11 @@ a{
 
 textarea{
     color: rgb(7, 7, 36);
-    background-color: antiquewhite;
     width: 500px;
     height: 100px;
 }
 marquee{
-    color: red;
+    color: purple;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
 }
@@ -36,11 +35,10 @@ embed{
     margin-right: 0px;
 }
 aside{
-    background-color: black;
-    color:white;
+    color:red;
 }
 body{
-    font-size: 20px;
+    font-size: 27px;
     font-style: normal;
     background-color: white;
 }
@@ -61,5 +59,4 @@ a.active{
 footer{
     color:black;
     text-align: center;
-    background-color:yellowgreen;
 }
