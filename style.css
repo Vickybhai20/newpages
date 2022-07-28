@@ -1,7 +1,7 @@
 h1, h2, h3, h4, h5, h6{
     color: black;
+    background-color:olive;
     text-align:center;
-    background-color: gray;
     outline:rgb(140, 2, 2);
 }
 a.hover{
@@ -13,7 +13,7 @@ a.hover{
 a{
     color:red;
     transition: 0.5s;
-    box-shadow: 0 0 35px var(--clr);
+    box-shadow: 3 3 35px var(--clr);
 }
 
 textarea{
@@ -38,19 +38,19 @@ aside{
     color:red;
 }
 body{
-    font-size: 27px;
+    font-size: 20px;
     font-style: normal;
     background-color: white;
 }
 table{
-    background-color: pink;
     color:black;
-    font-size: 20px;
+    font-size: 25px;
     border:10ch;
     width: 1300px;
     height: 200px;
     border-color: black;
     border-style: hidden;
+    align-items: center;
 }
 a.active{
     background-color: goldenrod;
