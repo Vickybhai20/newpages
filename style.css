@@ -1,6 +1,5 @@
 h1, h2, h3, h4, h5, h6{
     color: black;
-    background-color:olive;
     text-align:center;
     outline:rgb(140, 2, 2);
 }
@@ -38,13 +37,13 @@ aside{
     color:red;
 }
 body{
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
     background-color: white;
 }
 table{
     color:black;
-    font-size: 25px;
+    font-size: 15px;
     border:10ch;
     width: 1300px;
     height: 200px;
