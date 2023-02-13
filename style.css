@@ -5,10 +5,13 @@
     text-decoration: none;
     outline: none;
 }
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h5, h6{
     color: black;
-    text-align:center;
+    text-align:left;
     outline:rgb(140, 2, 2);
+}
+h4{
+    text-align: center;
 }
 a.hover{
     margin: 0;
@@ -17,7 +20,7 @@ a.hover{
     text-decoration: overline;
 }
 a{
-    color:red;
+    color: red;
     transition: 0.5s;
     box-shadow: 3 3 35px var(--clr);
 }
@@ -28,7 +31,7 @@ textarea{
     height: 100px;
 }
 marquee{
-    color: purple;
+    color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
 }
@@ -41,7 +44,7 @@ embed{
     margin-right: 0px;
 }
 aside{
-    color:red;
+color: red;
 }
 body{
     font-size: 15px;
